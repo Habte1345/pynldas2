@@ -1,4 +1,4 @@
-name: hyriver-dev
+name: hyriver-dev-folk
 channels:
 - conda-forge
 - nodefaults
@@ -155,13 +155,13 @@ dependencies:
 - pytest-sugar
 
 - pip
-- pip:
-  - git+https://github.com/hyriver/async-retriever.git
-  - git+https://github.com/hyriver/hydrosignatures.git
-  - git+https://github.com/hyriver/pygeoogc.git
-  - git+https://github.com/hyriver/pygeoutils.git
-  - git+https://github.com/hyriver/pynhd.git
-  - git+https://github.com/hyriver/py3dep.git
-  - git+https://github.com/hyriver/pydaymet.git
-  - git+https://github.com/hyriver/pynldas2.git
-  - git+https://github.com/hyriver/pygeohydro.git
+# - pip:
+#   - git+https://github.com/hyriver/async-retriever.git
+#   - git+https://github.com/hyriver/hydrosignatures.git
+#   - git+https://github.com/hyriver/pygeoogc.git
+#   - git+https://github.com/hyriver/pygeoutils.git
+#   - git+https://github.com/hyriver/pynhd.git
+#   - git+https://github.com/hyriver/py3dep.git
+#   - git+https://github.com/hyriver/pydaymet.git
+#   - git+https://github.com/hyriver/pynldas2.git
+#   - git+https://github.com/hyriver/pygeohydro.git
